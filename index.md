@@ -1,9 +1,9 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>YANG QIAOLIN</h1>
-      <p><b>Email：qlyang@semi.ac.cn</b></p>
-      <p><b>Address：No.A35, Qing Hua East Road, Haidian District, Beijing, China 100083</b></p>
+      <h1>杨巧林</h1>
+      <p><b>邮件：qlyang@semi.ac.cn</b></p>
+      <p><b>地址：北京市海淀区清华东路甲35号半导体研究所</b></p>
     </td>
     <td width="25%">
       <img src="/qlyang1.jpg" width="100%">  
@@ -11,107 +11,66 @@
   </tr>
 </table>
 
-### EDUCATION                                   
-#### Institute of Semiconductors- Chinese Academy of Sciences (IOS-CAS), 				  Beijing, China
-Master in Condensed Matter Physics, 	                                     (09/ 2017 – 06/ 2021) (Expected)
-- **Cumulative GPA**: 3.74/4.00; **Major GPA**: 3.94/4.00
-- **Core Courses**: Advanced Quantum Mechanics, Advanced Semiconductor Physics, Theory of the Solid State, Designing Semiconductor Quantum Materials, Mesoscopic Physics, Thermodynamics and Kinetics of Materials
-- **Honors and Awards**: Merit Student
+### 教育北京                                   
+#### 中国科学院半导体研究所 （IOS- CAS）
+凝聚态物理硕士, 	                                     (09/ 2017 – 06/ 2021) (Expected)
+- **GPA**: 3.85/4.00; **专业 GPA**: 3.94/4.00
+- **主修课程**: 高等量子力学、高等半导体物理学、半导体量子材料设计、材料的热力学和动力学、半导体器件、固体理论
+- **荣誉**: 三好学生
 
-#### University of Science and Technology Beijing (USTB),	 									  Beijing, China
-Bachelor of Applied Physics (Huangkun Class), School of Mathematics and Physics	   		  (09/2013 – 06/ 2017)
-- **Cumulative GPA**: 3.77/4.00; **Major GPA**: 3.91/4.00
-- **Core Courses**: Solid State Physics, Quantum Mechanics, Computational Physics, Semiconductor Physics, Advanced Mathematics, Semiconductor Device and Process Analytical Mechanics, Probability & Mathematical Statistics
-- **Honors and Awards**: graduate with honor, National Inspirational Scholarship, HuangKun Scholarship, Merit Student, Outstanding Social Practice Award
+#### 北京科技大学
+理学学士	   		  (09/2013 – 06/ 2017)
+- **GPA**: 3.77/4.00; **专业 GPA**: 3.91/4.00
+- **主修课程**: 固体物理、量子力学、计算物理学、半导体物理学、高等数学、半导体器件与工艺、概率与数理统计
+- **荣誉**: 优秀毕业生、国家励志奖学金、人民奖学金、黄昆奖学金、三好学生、优秀毕业论文
 
-### RESEARCH EXPERIENCE 
-#### State Key Laboratory for Superlattices and Microstructures | IOS- CAS				 (01/2020-Present)
--	**Item**: The fundamental factors affecting carrier mobility in quantum wells
--	**Motivation**: Nowadays, one of the key ways to improve transistor performance is to increase charge-carrier mobility within the device channel. Motivated by this, we focus on the hole transport properties of Si and Ge quantum well.
+### 研究经历
+#### 超晶格与微结构国家重点实验室｜IOS-CAS	（2020年1月至今）。
+- **项目**。研究影响量子井中载流子迁移率的基本因素
+- **背景**。如今，提高晶体管性能的关键方法之一是提高器件沟道的载流子迁移率。受此启发，我们重点研究了Si和Ge量子阱的空穴传输特性。
 
-#### State Key Laboratory for Superlattices and Microstructures | IOS- CAS				   (08/2018-11/2020)
--	**Topic**: Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon
--	**Motivation**: Silicon is the most widely used semiconductor material. However, why silicon owns abnormal low hole mobility is a long-standing puzzle. It is even difficult to understand why silicon as a non-polar semiconductor has lower hole mobility than the polar semiconductors GaSb and InSb. 
-- **Results**: We have solved this long-standing puzzle and present a universal understanding rooted in the fundamental atomic properties. In the end, we also present design principles towards high hole mobility. Considering carrier mobility is one of the fundamental parameters, our finding has a significant impact on condensed matter physics, semiconductor community, and material sciences.
+#### 超晶格与微结构国家重点实验室| IOS-CAS	 (08/2018-11/2020)
+- **项目**: Si的低空穴迁移率起源 & 高迁移率材料设计
+- **背景**。硅是应用最广泛的半导体材料。然而，为什么硅拥有异常的低空穴迁移率是一个长期的难题。甚至很难理解为什么作为非极性半导体的硅比极性半导体GaSb和InSb具有更低的空穴迁移率。
+- **成果**。我们解决了这个长期存在的难题，并提出了植根于基本原子特性的普遍理解。最后，我们还提出了走向高空穴迁移率的设计原则。考虑到载流子迁移率是基本参数之一，我们的发现对凝聚态物理学、半导体界和材料科学有重大影响。
 
-#### School of Applied Physics | USTB	& State Key Laboratory for Superlattices and Microstructures | IOS - CAS			(09/2016– 05/2017)
-- **Topic**: The Initial Construction of Semiconductor Photoelectric Material Gene Pool
-- **Results**: Designed and wrote a framework (python) of high-throughput computing and researched the structural properties, electronic properties and mechanical properties about some semiconductor materials of group IV, III-V, IIB-VI and IB-VII via VASP. Besides, we calculated and analyzed material data for the initial construction of semiconductor photoelectric material gene pool.
+#### 北京科技大学数理学院|超晶格与微结构国家重点实验室|IOS-中科院(09/2016- 05/2017)
+- **课题**: 半导体光电材料基因库的初步构建。
+- **成果**。设计并编写了一个高通量计算框架(python)，并通过VASP研究了传统半导体的结构特性、电子特性和机械特性，初步构建了半导体光电材料基因库。
 
-#### Students Creative Practice Training Program |The Nano-Optoelectronics Laboratory| IOS-CAS 		     	(05/2015– 09/2016)
--	**Topic**: Sensitive Harmful Gas Detection based on 2-3um DFB Laser
--	**Object**: To perform rapid analysis and real-time monitoring of harmful gases.
--	**Results**: Designed and built a gas detection system, including an air cavity device, light path diagram. Detected the component of harmful gas based on the self-designed system and 2-3um DFB laser.  
+#### 学生创新实践训练计划｜纳米光电子实验室| IOS-CAS (05/2015- 09/2016)
+- **主题**。基于2-3微米DFB激光器的敏感有害气体检测技术
+- **成果**：设计并建立了一套气体检测系统，包括气腔装置、光路图。基于自行设计的系统和2-3um的DFB激光器，检测出有害气体的成分。 
 
-#### Student Research Training Program | School of Materials Science and Engineering | USTB  (06/ 2014 – 06/2015)
--	**Topic**: The Onset Temperature of Secondary Recrystallization and the Sharpness of Goss Texture in Low Temperature Nitriding Grain-Oriented Silicon Steel
--	**Method**: The onset temperature of secondary recrystallization and the sharpness of Goss texture were studied on grain-oriented silicon steel treated with low temperature reheating and Nitriding technique. The effects of grain size of primary recrystallization and nitrogen content were taken into consideration. Electron back-scattered diffraction (EBSD) technique was applied to reveal the microstructure evolution of specimens. 
--	**Results**: Studied the effect of low temperature reheating and Nitriding technique on the onset temperature of secondary recrystallization and the sharpness of Goss texture of grain-oriented silicon steel. Applied Electron back-scattered diffraction (EBSD) technique to reveal the microstructure evolution of specimens. Determined the onset temperature of secondary recrystallization by the interruptions in experiments.
+#### 学生科研训练计划｜材料科学与工程学院｜科技大学(2014年06月-2015年06月)
+- **主题**。低温氮化取向硅钢二次再结晶的起始温度和戈斯质地的锋利性。
+- **方法**。研究了经低温再热和氮化技术处理的取向硅钢的二次再结晶起始温度和Goss纹理的锐利度。考虑了一次再结晶的晶粒尺寸和氮含量的影响。电子背散射衍射（EBSD）技术被应用于揭示试样的微观结构演变。
+- **结果**。研究了低温再热和氮化技术对取向硅钢二次再结晶起始温度和Goss纹理锐度的影响。应用电子背散射衍射(EBSD)技术揭示试样的微观结构演变。通过实验中的中断，确定了二次再结晶的起始温度。
 
-### Article																						        
-- **Qiao-Lin Yang, Hui-Xiong Deng, Su-Huai Wei, Shu-Shen Li, and Jun-Wei Luo**. Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon. Submitted to Physical Review Letters. <https://arxiv.org/abs/2011.02262>
+### 文章																						        
+- **Qiao-Lin Yang, Hui-Xiong Deng, Su-Huai Wei, Shu-Shen Li, and Jun-Wei Luo.** Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon. <https://arxiv.org/abs/2011.02262>
+- **Qiao-Lin Yang, Hui-Xiong Deng, Shu-Shen Li, and Jun-Wei Luo.** Simplified computation method of hole mobilities.
+- **Qiao-Lin Yang, Hui-Xiong Deng, Shu-Shen Li, and Jun-Wei Luo.** Band-resolved and phonon-limited transport proterties of 3C-SiC.
+- **Ruyue Cao, Qiao-Lin Yang, Hui-Xiong Deng, Shu-Shen Li, and Jun-Wei Luo.** Anomalous soft transverse optical phonon mode in rocksalt Beryllium Oxide.
 
-### ACTIVITIES                                                                  
-#### Volunteering Activities 
--	Volunteered on POI platform to solve learning puzzles for junior and senior high school students, 2014.
--	Organized a volunteer activity - "Thanks for Sanitation Workers and Care for the Urban Environment", 2016.
--	Participated in volunteer activities such as Mulan Bazaar, Sun Village, and Science Museum, 2014-2017.
+### 活动                                                                  
+#### 志愿活动
+- 在POI平台上为低年级学生解决学习难题的志愿服务，2014年
+- 组织了志愿者活动--"感恩环卫工人，关爱城市环境"，2016年
+- 参加木兰集市、太阳村、科技馆等志愿活动，2014-2017年。
 
-#### Team Leader
--	Organized a student social practice at China Railway Nanchang Group, 2014.
+#### 队长
+-	组织学生在南昌铁路局参加社会实践，2014年
 
-### AWARDS AND HONORS                                                                
--	Merit Student, Chinese Academy of Sciences, 2018
--	Excellent Graduation Thesis, University of Science and Technology Beijing, 2017
--	Outstanding Graduates, University of Science and Technology Beijing, 2017
--	National Inspirational Scholarship, University of Science and Technology Beijing, 2016
--	Huang-Kun Scholarship, University of Science and Technology Beijing, 2015 & 2016
--	The Third Prize of Smart-Car Optoelectronics Group, University of Science and Technology Beijing, 2015
--	The Second Prize of Cradle Cup, University of Science and Technology Beijing, 2015
--	Model Dormitory Director, University of Science and Technology Beijing, 2014
--	Outstanding Social Practice Award, University of Science and Technology Beijing, 2014
--	The Second Prize Scholarship, University of Science and Technology Beijing, 2014
+### 荣誉                                                                
+- 中国科学院三好学生，, 2018
+- 北京科技大学优秀毕业论文和优秀毕业生，2017年
+- 北京科技大学国家励志奖学金，2016年
+- 北京科技大学黄昆奖学金，2015 & 2016年
+- 北京科技大学智能汽车光电组三等奖、"摇篮杯 "二等奖，2015年
+- 北京科技大学模范寝室长、北京科技大学优秀社会实践奖、人民奖学金，2014年
 
-### SKILLS & INTERESTS                                                                    
-- Technical Skills: Python, MATLAB, Latex, Microsoft Office; VASP, QE, Materials Studio
--	Language: Chinese (Native), English (Fluent);  
-- Interests: Ukulele, Yoga, Reading
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Isabellelin/qlyangc.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Isabellelin/qlyangc.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 技能 & 兴趣                                                                    
+- 软件: Python, MATLAB, Latex, Microsoft Office; VASP, QE, Materials Studio
+-	语言: English (六级);  
+- 兴趣: 阅读
